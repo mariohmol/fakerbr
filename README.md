@@ -1,3 +1,9 @@
+# DEPRECATED
+
+Este repo foi movido para a org js-brasil, por favor acessar https://github.com/js-brasil/fakerbr
+
+
+
 # fakerbr
 
 Javascript Faker e Utils para Tipos do Brasil: 
